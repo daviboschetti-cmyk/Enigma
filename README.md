@@ -3,7 +3,7 @@
 
 ## 📌 Sobre o Projeto
 Esta é uma aplicação de linha de comando (CLI) desenvolvida na linguagem C. O objetivo principal do programa é realizar a criptografia e descriptografia de textos utilizando o método histórico da Cifra de César, aplicando um deslocamento nos caracteres.
-
+ 
 ## ⚙️ Funcionalidades Principais
 - 🔐 **Criptografar mensagens:** O usuário insere um texto e uma "chave" (número de deslocamento), e o sistema retorna o texto codificado.
 - 🔓 **Descriptografar mensagens:** Recebe um texto cifrado e a chave correta para revelar a mensagem original.
